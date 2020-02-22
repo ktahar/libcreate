@@ -204,6 +204,7 @@ namespace create {
     MODE_PASSIVE = 1,
     MODE_SAFE = 2,
     MODE_FULL = 3,
+    MODE_FOUR = 4,
     MODE_UNAVAILABLE = -1
   };
 
